@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_sex_1",
+    "texture": "0d43d6e3-bd5b-4ccb-98c4-82dcce5a2108",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      40,
+      40
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      46,
+      46
+    ]
+  }
+}

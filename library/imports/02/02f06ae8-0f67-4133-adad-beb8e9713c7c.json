@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "weishang_res.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "WJ-SRF-guanfangweixinbt": {
+      "__uuid__": "b6b668ea-f5c0-4f7a-a1c7-29b6e0bcc129"
+    },
+    "WJ-SRF-tijiaoan": {
+      "__uuid__": "bf91d8df-34b7-4a80-b904-b26d00f9ddd3"
+    },
+    "WJ-SRF-woyaozuodailian": {
+      "__uuid__": "19c68472-f45c-4fcc-8da4-5e0f73ed4398"
+    },
+    "WJ-SRF-xinxishurukuang": {
+      "__uuid__": "af684451-539c-4b36-9a61-47917cc50b4f"
+    },
+    "WJ-SRF-zhaomuweishangbt": {
+      "__uuid__": "b5a90b23-3cc4-43f4-b8a8-a0db31c464d3"
+    }
+  }
+}

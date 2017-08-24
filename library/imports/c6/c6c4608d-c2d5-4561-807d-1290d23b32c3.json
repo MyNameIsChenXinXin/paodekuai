@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jxhsc",
+    "texture": "fa93ea18-61e0-4235-86ef-a6973087f97e",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      229,
+      78
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      229,
+      80
+    ]
+  }
+}

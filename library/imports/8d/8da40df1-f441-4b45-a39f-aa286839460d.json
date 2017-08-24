@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "share_weixin",
+    "texture": "c648e474-c138-47a5-918e-7c3cfddb13d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      144
+    ]
+  }
+}

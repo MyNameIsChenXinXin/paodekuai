@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zuanshi_leftup",
+    "texture": "eb625bdd-aa05-498c-a4ef-c58f310faed4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      55
+    ],
+    "capInsets": [
+      53,
+      0,
+      33,
+      0
+    ]
+  }
+}

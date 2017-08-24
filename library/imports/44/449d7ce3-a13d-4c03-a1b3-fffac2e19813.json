@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_topline_phb",
+    "texture": "2140a0e6-4985-4b21-bef9-f3899064925a",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      630,
+      98
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      632,
+      99
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_tuiguangma",
+    "texture": "987715d2-d62d-4501-b240-155be804e839",
+    "atlas": "",
+    "rect": [
+      14,
+      4,
+      75,
+      102
+    ],
+    "offset": [
+      1.5,
+      0
+    ],
+    "originalSize": [
+      100,
+      110
+    ]
+  }
+}

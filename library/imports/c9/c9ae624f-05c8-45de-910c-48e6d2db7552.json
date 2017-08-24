@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FanHuiAnNiu",
+    "texture": "40b60524-a00e-4bab-a222-dde1daea11a6",
+    "atlas": "17a57d60-989f-49fe-83b6-4ece7295a71f",
+    "rect": [
+      976,
+      905,
+      66,
+      59
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      72,
+      65
+    ]
+  }
+}

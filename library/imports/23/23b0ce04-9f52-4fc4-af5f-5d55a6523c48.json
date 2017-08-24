@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kick_user",
+    "texture": "40b60524-a00e-4bab-a222-dde1daea11a6",
+    "atlas": "17a57d60-989f-49fe-83b6-4ece7295a71f",
+    "rect": [
+      1000,
+      518,
+      168,
+      66
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      172,
+      70
+    ],
+    "rotated": 1
+  }
+}

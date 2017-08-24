@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_room_end_panel_share_btn_1",
+    "texture": "efe2a63f-b648-40ad-94c7-8e2d6ce47a45",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      221,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      221,
+      80
+    ]
+  }
+}

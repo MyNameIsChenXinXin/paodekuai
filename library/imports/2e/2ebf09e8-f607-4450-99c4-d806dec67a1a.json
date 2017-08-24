@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "shangchengdh.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "shangchengdh2": {
+      "__uuid__": "d4825ca6-491b-4a76-9921-b6f732766917"
+    },
+    "shangchengdh3": {
+      "__uuid__": "9e01724e-364c-45d9-894c-d56fe51eebcb"
+    },
+    "shangchengdh4": {
+      "__uuid__": "d1564fa8-0ebd-4edd-a405-851f6a36b7d1"
+    },
+    "shangchengdh5": {
+      "__uuid__": "58ecce4c-21e6-4202-8fe6-d238dd82a57b"
+    },
+    "shangchengdh6": {
+      "__uuid__": "8256b401-cad4-4fc2-88af-907a1ccdd133"
+    },
+    "shangchengdh7": {
+      "__uuid__": "4e803116-d4f3-4547-b3a3-78a706bc20d0"
+    }
+  }
+}

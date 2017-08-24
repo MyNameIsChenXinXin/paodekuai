@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_jiangliZuanshi",
+    "texture": "fe28a24c-18f3-4562-bbb1-eedb7148a53f",
+    "atlas": "",
+    "rect": [
+      4,
+      6,
+      92,
+      90
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "joinRoom",
+    "texture": "a0de3612-aa7f-40a4-9c33-ac7f22327955",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      343,
+      470
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      343,
+      470
+    ]
+  }
+}

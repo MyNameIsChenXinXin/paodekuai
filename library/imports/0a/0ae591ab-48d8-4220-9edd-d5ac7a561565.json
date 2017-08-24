@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_hand_shadow",
+    "texture": "785b3709-0075-4202-941a-6fa3b12e8436",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      176
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      176
+    ]
+  }
+}

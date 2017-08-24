@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DuiGuo",
+    "texture": "40b60524-a00e-4bab-a222-dde1daea11a6",
+    "atlas": "17a57d60-989f-49fe-83b6-4ece7295a71f",
+    "rect": [
+      743,
+      56,
+      47,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      47
+    ]
+  }
+}

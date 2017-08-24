@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RenShu",
+    "texture": "40b60524-a00e-4bab-a222-dde1daea11a6",
+    "atlas": "17a57d60-989f-49fe-83b6-4ece7295a71f",
+    "rect": [
+      1018,
+      242,
+      66,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      36
+    ],
+    "rotated": 1
+  }
+}

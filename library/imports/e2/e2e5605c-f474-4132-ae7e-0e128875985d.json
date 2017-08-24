@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "join_zuoshang",
+    "texture": "8fbc327f-de67-448e-9bdd-9c9ad3d3a8d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      85
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "myroom_bottom",
+    "texture": "96a64ce0-ccbb-49ac-aca5-537d61b47f14",
+    "atlas": "696abd60-a0a0-4909-ab55-ff4c22f1b6e3",
+    "rect": [
+      506,
+      370,
+      108,
+      126
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      110,
+      126
+    ]
+  }
+}

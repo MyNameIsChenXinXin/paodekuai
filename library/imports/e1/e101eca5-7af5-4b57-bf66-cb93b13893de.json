@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "colour_lagt",
+    "texture": "1a934da5-9090-4db2-90d8-170e47267782",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      107
+    ]
+  }
+}

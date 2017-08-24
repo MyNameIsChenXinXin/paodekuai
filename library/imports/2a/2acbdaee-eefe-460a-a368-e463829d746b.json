@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_yunnan4",
+    "texture": "06ef6035-ddcb-4584-9fd9-1bb6d9915cd1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      379,
+      98
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      380,
+      98
+    ]
+  }
+}

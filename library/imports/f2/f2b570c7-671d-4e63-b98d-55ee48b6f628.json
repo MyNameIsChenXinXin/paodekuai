@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hallshare",
+    "texture": "96a64ce0-ccbb-49ac-aca5-537d61b47f14",
+    "atlas": "696abd60-a0a0-4909-ab55-ff4c22f1b6e3",
+    "rect": [
+      674,
+      356,
+      124,
+      70
+    ],
+    "offset": [
+      -9,
+      -8
+    ],
+    "originalSize": [
+      160,
+      86
+    ],
+    "rotated": 1
+  }
+}

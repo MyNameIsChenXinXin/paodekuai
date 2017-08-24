@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "join_zuoxia",
+    "texture": "c6bf8be6-6c4f-4629-9c03-e9cd067b6191",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      85
+    ]
+  }
+}

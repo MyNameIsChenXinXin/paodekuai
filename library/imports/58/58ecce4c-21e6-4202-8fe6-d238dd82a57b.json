@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shangchengdh5",
+    "texture": "34227b7b-61ea-4ba6-b040-f0cce8f351f9",
+    "atlas": "2ebf09e8-f607-4450-99c4-d806dec67a1a",
+    "rect": [
+      84,
+      94,
+      68,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      40
+    ],
+    "rotated": 1
+  }
+}

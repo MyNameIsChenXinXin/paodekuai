@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "join_you",
+    "texture": "4e107c3b-153c-403c-8cfd-5251935e1dd7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      85
+    ]
+  }
+}

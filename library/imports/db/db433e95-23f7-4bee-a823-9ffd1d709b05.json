@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiaolaba",
+    "texture": "40b60524-a00e-4bab-a222-dde1daea11a6",
+    "atlas": "17a57d60-989f-49fe-83b6-4ece7295a71f",
+    "rect": [
+      294,
+      1027,
+      42,
+      30
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      44,
+      36
+    ],
+    "rotated": 1
+  }
+}

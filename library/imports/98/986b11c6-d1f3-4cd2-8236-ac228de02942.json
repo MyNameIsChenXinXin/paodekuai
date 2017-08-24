@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WJ-SRF-zhaoshangrukou",
+    "texture": "e2b95b78-d6b2-4b5f-95d6-9836f7642a78",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      86,
+      87
+    ],
+    "offset": [
+      1,
+      0.5
+    ],
+    "originalSize": [
+      90,
+      88
+    ]
+  }
+}

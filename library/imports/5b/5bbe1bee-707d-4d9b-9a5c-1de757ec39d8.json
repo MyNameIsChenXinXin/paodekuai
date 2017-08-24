@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "join_zuo",
+    "texture": "da5105f4-1dbc-4a50-8fd2-bd21f6f978da",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      85
+    ]
+  }
+}

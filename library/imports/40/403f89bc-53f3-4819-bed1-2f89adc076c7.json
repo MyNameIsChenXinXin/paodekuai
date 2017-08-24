@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "player_head_blue",
+    "texture": "6d246fa2-3301-4b7e-8dae-cffa03598954",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      109,
+      110
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      109,
+      111
+    ]
+  }
+}

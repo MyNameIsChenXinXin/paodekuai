@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chartbg_face",
+    "texture": "40b60524-a00e-4bab-a222-dde1daea11a6",
+    "atlas": "17a57d60-989f-49fe-83b6-4ece7295a71f",
+    "rect": [
+      108,
+      652,
+      414,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      414,
+      104
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      80,
+      0,
+      18
+    ]
+  }
+}

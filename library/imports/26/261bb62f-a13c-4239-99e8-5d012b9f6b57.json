@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "QR_bg",
+    "texture": "0d166ea3-5974-4f5c-b834-fc0126bdfa7a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      182
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      182
+    ]
+  }
+}

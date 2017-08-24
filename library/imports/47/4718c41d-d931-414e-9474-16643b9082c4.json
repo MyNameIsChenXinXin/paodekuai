@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhanji_shu",
+    "texture": "d80ee4a6-68b7-43c0-a421-46f09721e5e6",
+    "atlas": "",
+    "rect": [
+      7,
+      17,
+      80,
+      54
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      94,
+      89
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_zuanshi",
+    "texture": "fe29bacf-a173-465b-845d-90132003ce0c",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      74,
+      37
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      80,
+      40
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kingFlower",
+    "texture": "017a55b0-f3ec-4197-994b-e793b63a617f",
+    "atlas": "",
+    "rect": [
+      20,
+      15,
+      366,
+      465
+    ],
+    "offset": [
+      -21,
+      -7.5
+    ],
+    "originalSize": [
+      448,
+      480
+    ]
+  }
+}

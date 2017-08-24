@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "createRoom_4",
+    "texture": "923667d7-f538-4d19-b701-55970d8983f7",
+    "atlas": "",
+    "rect": [
+      1,
+      5,
+      307,
+      98
+    ],
+    "offset": [
+      -0.5,
+      -2
+    ],
+    "originalSize": [
+      310,
+      104
+    ]
+  }
+}

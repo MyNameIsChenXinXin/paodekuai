@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_invite_weixin",
+    "texture": "7e13df22-5c9b-471e-9734-0da89e7899c9",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      465,
+      122
+    ],
+    "offset": [
+      -0.5,
+      -2
+    ],
+    "originalSize": [
+      470,
+      126
+    ]
+  }
+}

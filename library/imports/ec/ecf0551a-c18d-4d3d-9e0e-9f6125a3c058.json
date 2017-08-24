@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "share_moments",
+    "texture": "72a8def5-1086-46db-a064-b64bbbcd62d6",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      143,
+      51
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      150,
+      55
+    ]
+  }
+}

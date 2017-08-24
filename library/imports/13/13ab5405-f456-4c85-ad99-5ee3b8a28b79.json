@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_light_yellow",
+    "texture": "abd408db-7956-46dc-8e56-8447408e4674",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      391,
+      391
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      391,
+      391
+    ]
+  }
+}

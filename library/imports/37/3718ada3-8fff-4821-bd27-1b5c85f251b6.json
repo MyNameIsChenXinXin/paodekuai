@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HuoPingWanFa",
+    "texture": "40b60524-a00e-4bab-a222-dde1daea11a6",
+    "atlas": "17a57d60-989f-49fe-83b6-4ece7295a71f",
+    "rect": [
+      743,
+      212,
+      273,
+      110
+    ],
+    "offset": [
+      -4,
+      -4
+    ],
+    "originalSize": [
+      281,
+      126
+    ]
+  }
+}

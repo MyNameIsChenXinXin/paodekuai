@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_buchu",
+    "texture": "539ef4e0-286a-4983-b312-4184be4ae25c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      42
+    ]
+  }
+}

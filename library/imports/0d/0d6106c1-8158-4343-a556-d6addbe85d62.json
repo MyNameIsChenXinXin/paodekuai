@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "share_moments_dark",
+    "texture": "e219abdb-6644-434b-947f-05b172b7eb19",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      143,
+      51
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      150,
+      55
+    ]
+  }
+}

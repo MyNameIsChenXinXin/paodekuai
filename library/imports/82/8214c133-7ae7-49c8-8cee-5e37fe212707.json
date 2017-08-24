@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_dismiss3",
+    "texture": "ceaf8c25-6ecf-4e71-b1ba-a08e94a85b1f",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      237,
+      81
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      238,
+      82
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WJ-SRF-tijiaoan",
+    "texture": "c04af864-250f-449b-bf97-4f78a18ad9bc",
+    "atlas": "02f06ae8-0f67-4133-adad-beb8e9713c7c",
+    "rect": [
+      253,
+      47,
+      146,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      64
+    ]
+  }
+}

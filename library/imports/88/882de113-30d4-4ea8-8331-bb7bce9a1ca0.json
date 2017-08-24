@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_refuse",
+    "texture": "84547cdd-0c7b-4fd6-ab13-588f95d0324e",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      238,
+      80
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      240,
+      82
+    ]
+  }
+}

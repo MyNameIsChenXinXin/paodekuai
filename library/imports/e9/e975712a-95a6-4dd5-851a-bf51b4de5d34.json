@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_jiangliBg",
+    "texture": "102d20c2-6bf2-4e5f-9f1b-a03fa8a8b57c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      154,
+      165
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      154,
+      166
+    ]
+  }
+}

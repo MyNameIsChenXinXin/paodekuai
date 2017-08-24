@@ -1,0 +1,179 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "hall.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "UIfengexian": {
+      "__uuid__": "f217dfc2-4686-4a1f-8b3e-c020a8b11db1"
+    },
+    "bangzhu": {
+      "__uuid__": "6b52a95d-7967-4288-b604-663582cccb54"
+    },
+    "buttonAddRoomCard": {
+      "__uuid__": "f686cf87-4663-415e-9c2c-d855b16299a3"
+    },
+    "buttonDel": {
+      "__uuid__": "70f31e53-bc83-4b6f-b087-dc80c187abfc"
+    },
+    "buttonNum": {
+      "__uuid__": "4ee7065b-75c5-4bff-98f1-a789c9c8d6f9"
+    },
+    "button_add": {
+      "__uuid__": "d094ca73-274d-467a-a47c-880fd3c57571"
+    },
+    "csmj": {
+      "__uuid__": "4e573e67-7b67-4d4a-8fe9-61b1df239dd2"
+    },
+    "csmjh": {
+      "__uuid__": "f6df96af-5760-47eb-92df-bdae55efad50"
+    },
+    "deleteCode": {
+      "__uuid__": "cce4b7a9-a716-4423-b966-5d1866843326"
+    },
+    "fangkaxiaobeijing": {
+      "__uuid__": "d174b621-4a33-46e1-b42a-e7a871ff39dd"
+    },
+    "feedback": {
+      "__uuid__": "cf7582bc-47f1-4e7b-bc5c-64ff32eebba6"
+    },
+    "hallshare": {
+      "__uuid__": "f2b570c7-671d-4e63-b98d-55ee48b6f628"
+    },
+    "hunanmajiang": {
+      "__uuid__": "59dea4a0-9880-4558-9e77-3a995b9e12c0"
+    },
+    "hzmj": {
+      "__uuid__": "f5fd2c3f-2252-4807-bcc4-ce3959584b38"
+    },
+    "hzmjh": {
+      "__uuid__": "038d0ccf-e4d9-419b-abe4-8123e082fef3"
+    },
+    "inputPwd": {
+      "__uuid__": "772f1a17-4662-439b-8e54-348e80ea6858"
+    },
+    "inputbg": {
+      "__uuid__": "71142c66-838a-452b-9e94-1404d87948ab"
+    },
+    "inputfgx": {
+      "__uuid__": "092e9435-5bdb-4cea-9a0c-c0ed086168d9"
+    },
+    "lookbackbg": {
+      "__uuid__": "c5807eff-f3cf-43ae-943b-29bf42a7ba36"
+    },
+    "lookother": {
+      "__uuid__": "ea8fe683-1378-49b4-aa62-5e6c164bb365"
+    },
+    "message": {
+      "__uuid__": "53e43a8d-469a-484d-8ccd-1e2d0518bfd7"
+    },
+    "minussign": {
+      "__uuid__": "eeb7cbbb-e11c-480e-be68-467f7b543493"
+    },
+    "msg": {
+      "__uuid__": "d9c8722a-f4fe-42df-8d01-184dbee414b8"
+    },
+    "msg_count_bg": {
+      "__uuid__": "2a07b86b-8384-4c96-90a9-309629007bde"
+    },
+    "myroom_bottom": {
+      "__uuid__": "3c266c01-950f-49a5-9783-ed859d211b8a"
+    },
+    "myroom_bottom2": {
+      "__uuid__": "4d1a1bde-9ced-40c3-8220-a804dca25492"
+    },
+    "myroom_bottom3": {
+      "__uuid__": "662ad35e-8054-41d4-a6f6-b6709d17d875"
+    },
+    "myroom_invite": {
+      "__uuid__": "0168ac6c-7189-4545-b9b4-703e919c5101"
+    },
+    "myroom_started": {
+      "__uuid__": "54961a17-7304-4c2c-8a14-59b8b38bb8ef"
+    },
+    "myroom_title": {
+      "__uuid__": "27d452a5-3318-4aed-92ec-25d3ec1f52c5"
+    },
+    "playerInfo002": {
+      "__uuid__": "30198df5-e3a6-492d-8c01-093c0b8b1162"
+    },
+    "playerInfoInputBox": {
+      "__uuid__": "64af7ef6-f2fa-4d46-9093-d9ce6f483018"
+    },
+    "playerframe": {
+      "__uuid__": "ea61f3da-69bd-412f-b8e4-a8bbe80188e3"
+    },
+    "promo": {
+      "__uuid__": "ba28b020-b8ee-47d3-ae89-f753d353f3a8"
+    },
+    "promoCopy": {
+      "__uuid__": "80e04255-77c5-441a-a8c0-5b23560fcb31"
+    },
+    "promoHelp": {
+      "__uuid__": "caa3638d-d058-49c1-806a-49960764d7b0"
+    },
+    "promoInput": {
+      "__uuid__": "1743d00d-1957-470e-b9d9-47f68d628939"
+    },
+    "promo_title": {
+      "__uuid__": "8d6ac032-7c73-4a8f-a078-4952122b392f"
+    },
+    "rankbg": {
+      "__uuid__": "d171cca1-288b-43e2-8580-fcb792940512"
+    },
+    "rankfgx": {
+      "__uuid__": "99ac5671-bf53-461f-88fb-112f71976b27"
+    },
+    "rankinfobgr": {
+      "__uuid__": "288fe138-3424-4bd0-9d27-8ff0ebaf5c5e"
+    },
+    "rankinfobgw": {
+      "__uuid__": "a54518f4-ee3f-4a5b-8482-1d43c01bb41c"
+    },
+    "ranklook": {
+      "__uuid__": "4fba32e9-61c0-439e-8c65-4dfb6dfdd7a8"
+    },
+    "rankshare": {
+      "__uuid__": "625fd175-1764-477c-913e-ffd9800f0dfb"
+    },
+    "ranscore": {
+      "__uuid__": "cd718752-2f17-421f-bd3c-d7784a401083"
+    },
+    "record_line": {
+      "__uuid__": "493799a6-1a7d-46f0-8cca-35f74a6079f8"
+    },
+    "record_wings": {
+      "__uuid__": "b45540cd-cd8c-4a5f-9baf-275f79df478f"
+    },
+    "resetnum": {
+      "__uuid__": "62ae3cd1-44e3-497e-aaef-c3598cfc94b7"
+    },
+    "reviewButtonNum": {
+      "__uuid__": "b32514d3-47e3-4066-ae24-17dc12ac9f9e"
+    },
+    "reviewCodeOk": {
+      "__uuid__": "d61b1c4c-1c4f-44cc-b837-875c886c1efa"
+    },
+    "settingQuit": {
+      "__uuid__": "fdd7d46a-3a30-4727-87cf-80fc7539dbf3"
+    },
+    "shangchengdh1": {
+      "__uuid__": "80870cd6-d3f6-46a7-8f98-1f59dfff9c34"
+    },
+    "shezhi": {
+      "__uuid__": "91ba90d7-e313-4f48-8203-fc06e195b501"
+    },
+    "tipcopybutton": {
+      "__uuid__": "4d92d2c3-a369-4899-b390-5c1c45f8ddff"
+    },
+    "zhanji": {
+      "__uuid__": "ad15dd0c-f9d9-405e-958b-a4309dac8ebe"
+    },
+    "zzmj": {
+      "__uuid__": "b6a8b64d-b2a4-49f1-aa25-595adb868866"
+    },
+    "zzmjh": {
+      "__uuid__": "9ec645c0-b55f-4d60-ba39-66e3cbec9899"
+    }
+  }
+}

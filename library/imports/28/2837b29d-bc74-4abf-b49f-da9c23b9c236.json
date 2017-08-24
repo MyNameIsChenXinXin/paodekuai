@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "join_xia",
+    "texture": "d43fca39-4d7d-446d-8c54-5393a82e665b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      85
+    ]
+  }
+}

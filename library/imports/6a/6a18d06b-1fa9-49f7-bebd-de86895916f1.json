@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "launcher",
+    "texture": "cf35a8ec-cfa5-412c-9f49-1355496f251b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      144
+    ]
+  }
+}

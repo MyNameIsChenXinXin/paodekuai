@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quit_room",
+    "texture": "e0bffafc-4e78-4f1a-9636-f595478fbb12",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      238,
+      80
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      240,
+      82
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_shown",
+    "texture": "bb64829d-874a-4f66-82c9-e4b95d115bed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      28,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      42
+    ]
+  }
+}
