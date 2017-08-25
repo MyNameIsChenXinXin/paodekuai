@@ -1458,5 +1458,10 @@
     "asset": 1497494254000,
     "meta": 1503542311930,
     "relativePath": "image\\default_toggle_pressed.png"
+  },
+  "61780d25-f2f4-446f-92b8-c53167528701": {
+    "asset": 1503655716484,
+    "meta": 1503655716528,
+    "relativePath": "scene\\Login.fire"
   }
 }

@@ -1,53 +1,53 @@
-2017-08-24T02:38:22.833Z - normal: Load ~/.CocosCreator/settings.json
-2017-08-24T02:38:22.853Z - normal: checking language setting...
-2017-08-24T02:38:22.854Z - normal: Language: zh
-2017-08-24T02:38:25.400Z - success: protocol editor-framework registered
-2017-08-24T02:38:25.401Z - success: protocol app registered
-2017-08-24T02:38:25.402Z - success: protocol theme registered
-2017-08-24T02:38:25.402Z - success: protocol profile registered
-2017-08-24T02:38:25.402Z - success: protocol packages registered
-2017-08-24T02:38:25.407Z - success: protocol unpack registerred
-2017-08-24T02:38:25.407Z - success: protocol disable-commonjs registerred
-2017-08-24T02:38:25.585Z - normal: failed to connect login server... skipping login
-2017-08-24T02:38:25.590Z - normal: Check project D:\cocosproduct\paodekuai
-2017-08-24T02:38:25.598Z - normal: Initializing Cocos2d
-2017-08-24T02:38:26.355Z - normal: Initializing Asset Database
-2017-08-24T02:38:26.467Z - success: protocol uuid registerred
-2017-08-24T02:38:26.467Z - success: protocol db registerred
-2017-08-24T02:38:26.467Z - success: protocol thumbnail registerred
-2017-08-24T02:38:26.467Z - normal: Loading editor/builtin packages
-2017-08-24T02:38:26.547Z - success: anysdk loaded
-2017-08-24T02:38:26.986Z - success: assets loaded
-2017-08-24T02:38:26.994Z - success: builder loaded
-2017-08-24T02:38:27.006Z - success: hierarchy loaded
-2017-08-24T02:38:27.014Z - success: inspector loaded
-2017-08-24T02:38:27.016Z - success: keystore loaded
-2017-08-24T02:38:27.022Z - success: node-library loaded
-2017-08-24T02:38:27.027Z - success: package-asset loaded
-2017-08-24T02:38:27.035Z - success: preferences loaded
-2017-08-24T02:38:27.083Z - success: project-importer loaded
-2017-08-24T02:38:27.092Z - success: project-settings loaded
-2017-08-24T02:38:27.098Z - success: ui-kit loaded
-2017-08-24T02:38:27.101Z - success: ui-grid loaded
-2017-08-24T02:38:27.108Z - success: scene loaded
-2017-08-24T02:38:27.112Z - success: sprite-editor loaded
-2017-08-24T02:38:27.118Z - success: store loaded
-2017-08-24T02:38:27.134Z - success: timeline loaded
-2017-08-24T02:38:27.135Z - normal: Loading builtin packages
-2017-08-24T02:38:27.143Z - success: asset-db-debugger loaded
-2017-08-24T02:38:27.147Z - success: code-editor loaded
-2017-08-24T02:38:27.148Z - success: color-picker loaded
-2017-08-24T02:38:27.154Z - success: console loaded
-2017-08-24T02:38:27.161Z - success: package-manager loaded
-2017-08-24T02:38:27.191Z - success: sdkbox loaded
-2017-08-24T02:38:27.198Z - success: tester loaded
-2017-08-24T02:38:27.202Z - success: ui-kit-preview-extra loaded
-2017-08-24T02:38:27.210Z - success: ui-kit-preview loaded
-2017-08-24T02:38:27.217Z - success: ui-tree loaded
-2017-08-24T02:38:30.848Z - normal: Initializing project D:\cocosproduct\paodekuai
-2017-08-24T02:38:30.863Z - normal: Loading packages
-2017-08-24T02:38:30.882Z - normal: Watching packages
-2017-08-24T02:38:30.926Z - normal: Run Application
-2017-08-24T02:38:34.340Z - success: preview server running at http://localhost:7456
-2017-08-24T02:38:45.365Z - normal: 1.5.1
-2017-08-24T09:29:29.488Z - info: shutdown preview server
+2017-08-25T07:39:36.951Z - normal: Load ~/.CocosCreator/settings.json
+2017-08-25T07:39:36.961Z - normal: checking language setting...
+2017-08-25T07:39:36.961Z - normal: Language: zh
+2017-08-25T07:39:38.671Z - success: protocol editor-framework registered
+2017-08-25T07:39:38.671Z - success: protocol app registered
+2017-08-25T07:39:38.671Z - success: protocol theme registered
+2017-08-25T07:39:38.671Z - success: protocol profile registered
+2017-08-25T07:39:38.671Z - success: protocol packages registered
+2017-08-25T07:39:38.671Z - success: protocol unpack registerred
+2017-08-25T07:39:38.671Z - success: protocol disable-commonjs registerred
+2017-08-25T07:39:38.821Z - normal: failed to connect login server... skipping login
+2017-08-25T07:39:38.831Z - normal: Check project D:\cocosproduct\paodekuai
+2017-08-25T07:39:38.831Z - normal: Initializing Cocos2d
+2017-08-25T07:39:39.282Z - normal: Initializing Asset Database
+2017-08-25T07:39:39.352Z - success: protocol uuid registerred
+2017-08-25T07:39:39.352Z - success: protocol db registerred
+2017-08-25T07:39:39.352Z - success: protocol thumbnail registerred
+2017-08-25T07:39:39.352Z - normal: Loading editor/builtin packages
+2017-08-25T07:39:39.402Z - success: anysdk loaded
+2017-08-25T07:39:39.632Z - success: assets loaded
+2017-08-25T07:39:39.642Z - success: builder loaded
+2017-08-25T07:39:39.642Z - success: hierarchy loaded
+2017-08-25T07:39:39.652Z - success: inspector loaded
+2017-08-25T07:39:39.652Z - success: keystore loaded
+2017-08-25T07:39:39.662Z - success: node-library loaded
+2017-08-25T07:39:39.662Z - success: package-asset loaded
+2017-08-25T07:39:39.672Z - success: preferences loaded
+2017-08-25T07:39:39.692Z - success: project-importer loaded
+2017-08-25T07:39:39.692Z - success: project-settings loaded
+2017-08-25T07:39:39.702Z - success: ui-kit loaded
+2017-08-25T07:39:39.702Z - success: ui-grid loaded
+2017-08-25T07:39:39.702Z - success: scene loaded
+2017-08-25T07:39:39.712Z - success: sprite-editor loaded
+2017-08-25T07:39:39.712Z - success: store loaded
+2017-08-25T07:39:39.722Z - success: timeline loaded
+2017-08-25T07:39:39.722Z - normal: Loading builtin packages
+2017-08-25T07:39:39.722Z - success: asset-db-debugger loaded
+2017-08-25T07:39:39.732Z - success: code-editor loaded
+2017-08-25T07:39:39.732Z - success: color-picker loaded
+2017-08-25T07:39:39.732Z - success: console loaded
+2017-08-25T07:39:39.742Z - success: package-manager loaded
+2017-08-25T07:39:39.752Z - success: sdkbox loaded
+2017-08-25T07:39:39.762Z - success: tester loaded
+2017-08-25T07:39:39.762Z - success: ui-kit-preview-extra loaded
+2017-08-25T07:39:39.772Z - success: ui-kit-preview loaded
+2017-08-25T07:39:39.772Z - success: ui-tree loaded
+2017-08-25T07:39:41.411Z - normal: Initializing project D:\cocosproduct\paodekuai
+2017-08-25T07:39:41.411Z - normal: Loading packages
+2017-08-25T07:39:41.421Z - normal: Watching packages
+2017-08-25T07:39:41.441Z - normal: Run Application
+2017-08-25T07:39:43.186Z - success: preview server running at http://localhost:7456
+2017-08-25T07:39:50.214Z - normal: 1.5.1
+2017-08-25T10:08:37.757Z - info: shutdown preview server
